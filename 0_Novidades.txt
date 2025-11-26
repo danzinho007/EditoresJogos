@@ -2,4 +2,5 @@ EditoresJogos_Novidades
 
 1-Criado arquivo Novidades
 2-Criado pasta HexManiaAdvance para Pokémon
-3-
+3-Criado pasta Ransei para PokemonConquest
+4-
